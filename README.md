@@ -1,5 +1,7 @@
 # Movie-Recommender-System
 
+Group Project of 3 (Managed the backend and Made the ER diagram with 3NF relation)
+
 ### Language used:
 1)	PHP 8.1.12
 2)	Laravel Framework 9.39.0
