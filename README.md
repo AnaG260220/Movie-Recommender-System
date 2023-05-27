@@ -38,8 +38,6 @@ env. (Database Connectivity)
 
 ![image](https://github.com/AnaG260220/Movie-Recommender-System/assets/61514957/c78367ac-75c7-4626-832f-44be1d3be9b3)
  
-## Code:
-
 DB_CONNECTION=mysql
 
 DB_HOST=127.0.0.1
@@ -52,32 +50,32 @@ DB_USERNAME=root
 
 DB_PASSWORD=
       
-## Home page
+### Home page
 ![image](https://github.com/AnaG260220/Movie-Recommender-System/assets/61514957/236cdafc-89de-4e7c-9456-b4a05a8d55eb)
 
- ## Most Watched Movies
+### Most Watched Movies
 ![image](https://github.com/AnaG260220/Movie-Recommender-System/assets/61514957/e8959b25-0502-49b3-94c3-5bca1b6444ef)
 
-## Longest Movies
+### Longest Movies
 ![image](https://github.com/AnaG260220/Movie-Recommender-System/assets/61514957/31d3e55f-b44e-42c0-9ebf-e80f32d1c149)
 
- ## Movies Insertion  (Demo):
+### Movies Insertion  (Demo):
 ![image](https://github.com/AnaG260220/Movie-Recommender-System/assets/61514957/c6be10a2-8221-4b4a-9d49-87d65a785d9b)
       
- ## Insertion of Genres (Demo):
+### Insertion of Genres (Demo):
 ![image](https://github.com/AnaG260220/Movie-Recommender-System/assets/61514957/df3bb1c0-c916-4740-8b5a-d5da3427fd06)
       
- ## SQL Connection (env.)
+### SQL Connection (env.)
 ![image](https://github.com/AnaG260220/Movie-Recommender-System/assets/61514957/5fcb2fd6-d918-4b49-8b58-aa4fe77fe178)
 
 ![image](https://github.com/AnaG260220/Movie-Recommender-System/assets/61514957/1f3f36f2-3598-43d8-907e-785130fc9384)
 
 ![image](https://github.com/AnaG260220/Movie-Recommender-System/assets/61514957/e76fe1d5-21b2-467c-aaa5-bd1de8b8e210)
 
- ## Movies table in phpmyadmin 
+### Movies table in phpmyadmin 
 ![image](https://github.com/AnaG260220/Movie-Recommender-System/assets/61514957/bed66276-7071-484f-86c1-7905150c0d72)
   
-## ER diagram
+### ER diagram
 ![image](https://github.com/AnaG260220/Movie-Recommender-System/assets/61514957/ad0036b7-6217-47a3-a46d-c93ac4267668)
 
 
