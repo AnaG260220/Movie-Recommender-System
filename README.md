@@ -1,38 +1,38 @@
 # Movie-Recommender-System
 
-## Language used:
+### Language used:
 1)	PHP 8.1.12
 2)	Laravel Framework 9.39.0
 3)	PhpMyAdmin: 5.2.0
 
-## Database : MySQL  5.0. 37	
+### Database : MySQL  5.0. 37	
 
-## Software 
+### Software 
 VS Code 1.73.1
 XAMPP 3.3.0
 BOOTSTRAP CDN
 
-## Module:
+### Module:
 Web.php
 .env
 
-## Controllers:
+### Controllers:
 
 ![image](https://github.com/AnaG260220/Movie-Recommender-System/assets/61514957/82d0495f-6f95-4a0e-b162-fe0d8598b7eb)
 
-## Models:
+### Models:
  
 ![image](https://github.com/AnaG260220/Movie-Recommender-System/assets/61514957/6e057546-3762-4977-b97a-896a0e606567)
 
-## Migrations:
+### Migrations:
 
 ![image](https://github.com/AnaG260220/Movie-Recommender-System/assets/61514957/edc75626-eabb-4856-8d3f-674910bb5026)
 
-## Views:
+### Views:
 
 ![image](https://github.com/AnaG260220/Movie-Recommender-System/assets/61514957/74cee116-3571-4fda-be60-da8df3c72126)
 
-## Module name:
+### Module name:
 
 env. (Database Connectivity)
 
@@ -41,31 +41,16 @@ env. (Database Connectivity)
 ## Code:
 
 DB_CONNECTION=mysql
+
 DB_HOST=127.0.0.1
+
 DB_PORT=3306
+
 DB_DATABASE=movies
+
 DB_USERNAME=root
+
 DB_PASSWORD=
-
-## Main layout page:
-Layout_blade.php:
-
-![image](https://github.com/AnaG260220/Movie-Recommender-System/assets/61514957/de38668d-4626-498e-9755-e7dcc416e6da)
- 
-Code:
-<!doctypehtml>
-<htmllang="en">
-  <head>
-    <metacharset="utf-8">
-    <metaname="viewport"content="width=device-width, initial-scale=1">
-    <title>Bootstrap demo</title>
-    <linkhref="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css"rel="stylesheet"integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65"crossorigin="anonymous">
-  </head>
-  <body>
-  @yield('content') 
-    <scriptsrc="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4"crossorigin="anonymous"></script>
-  </body>
-</html>
       
 ## Home page
 ![image](https://github.com/AnaG260220/Movie-Recommender-System/assets/61514957/236cdafc-89de-4e7c-9456-b4a05a8d55eb)
